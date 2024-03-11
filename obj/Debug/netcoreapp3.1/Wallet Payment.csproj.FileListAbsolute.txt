@@ -1,0 +1,174 @@
+E:\U\Tercer semestre\pogrra3\UI WPF\WPF-Dark-Wallet-Payment-master\bin\Debug\netcoreapp3.1\Wallet Payment.exe
+E:\U\Tercer semestre\pogrra3\UI WPF\WPF-Dark-Wallet-Payment-master\bin\Debug\netcoreapp3.1\Wallet Payment.deps.json
+E:\U\Tercer semestre\pogrra3\UI WPF\WPF-Dark-Wallet-Payment-master\bin\Debug\netcoreapp3.1\Wallet Payment.runtimeconfig.json
+E:\U\Tercer semestre\pogrra3\UI WPF\WPF-Dark-Wallet-Payment-master\bin\Debug\netcoreapp3.1\Wallet Payment.runtimeconfig.dev.json
+E:\U\Tercer semestre\pogrra3\UI WPF\WPF-Dark-Wallet-Payment-master\bin\Debug\netcoreapp3.1\Wallet Payment.dll
+E:\U\Tercer semestre\pogrra3\UI WPF\WPF-Dark-Wallet-Payment-master\bin\Debug\netcoreapp3.1\Wallet Payment.pdb
+E:\U\Tercer semestre\pogrra3\UI WPF\WPF-Dark-Wallet-Payment-master\bin\Debug\netcoreapp3.1\FontAwesome.WPF.dll
+E:\U\Tercer semestre\pogrra3\UI WPF\WPF-Dark-Wallet-Payment-master\obj\Debug\netcoreapp3.1\Wallet Payment.csproj.AssemblyReference.cache
+E:\U\Tercer semestre\pogrra3\UI WPF\WPF-Dark-Wallet-Payment-master\obj\Debug\netcoreapp3.1\MainWindow.baml
+E:\U\Tercer semestre\pogrra3\UI WPF\WPF-Dark-Wallet-Payment-master\obj\Debug\netcoreapp3.1\App.baml
+E:\U\Tercer semestre\pogrra3\UI WPF\WPF-Dark-Wallet-Payment-master\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+E:\U\Tercer semestre\pogrra3\UI WPF\WPF-Dark-Wallet-Payment-master\obj\Debug\netcoreapp3.1\App.g.cs
+E:\U\Tercer semestre\pogrra3\UI WPF\WPF-Dark-Wallet-Payment-master\obj\Debug\netcoreapp3.1\Wallet Payment_MarkupCompile.cache
+E:\U\Tercer semestre\pogrra3\UI WPF\WPF-Dark-Wallet-Payment-master\obj\Debug\netcoreapp3.1\Wallet Payment.g.resources
+E:\U\Tercer semestre\pogrra3\UI WPF\WPF-Dark-Wallet-Payment-master\obj\Debug\netcoreapp3.1\Wallet Payment.GeneratedMSBuildEditorConfig.editorconfig
+E:\U\Tercer semestre\pogrra3\UI WPF\WPF-Dark-Wallet-Payment-master\obj\Debug\netcoreapp3.1\Wallet Payment.AssemblyInfoInputs.cache
+E:\U\Tercer semestre\pogrra3\UI WPF\WPF-Dark-Wallet-Payment-master\obj\Debug\netcoreapp3.1\Wallet Payment.AssemblyInfo.cs
+E:\U\Tercer semestre\pogrra3\UI WPF\WPF-Dark-Wallet-Payment-master\obj\Debug\netcoreapp3.1\Wallet Payment.csproj.CoreCompileInputs.cache
+E:\U\Tercer semestre\pogrra3\UI WPF\WPF-Dark-Wallet-Payment-master\obj\Debug\netcoreapp3.1\Wallet Payment.csproj.CopyComplete
+E:\U\Tercer semestre\pogrra3\UI WPF\WPF-Dark-Wallet-Payment-master\obj\Debug\netcoreapp3.1\Wallet Payment.dll
+E:\U\Tercer semestre\pogrra3\UI WPF\WPF-Dark-Wallet-Payment-master\obj\Debug\netcoreapp3.1\Wallet Payment.pdb
+E:\U\Tercer semestre\pogrra3\UI WPF\WPF-Dark-Wallet-Payment-master\obj\Debug\netcoreapp3.1\Wallet Payment.genruntimeconfig.cache
+C:\Universidad\TercerSemestre\Programacion3\UI WPF\Tarjeta de Credito\bin\Debug\netcoreapp3.1\Wallet Payment.exe
+C:\Universidad\TercerSemestre\Programacion3\UI WPF\Tarjeta de Credito\bin\Debug\netcoreapp3.1\Wallet Payment.deps.json
+C:\Universidad\TercerSemestre\Programacion3\UI WPF\Tarjeta de Credito\bin\Debug\netcoreapp3.1\Wallet Payment.runtimeconfig.json
+C:\Universidad\TercerSemestre\Programacion3\UI WPF\Tarjeta de Credito\bin\Debug\netcoreapp3.1\Wallet Payment.runtimeconfig.dev.json
+C:\Universidad\TercerSemestre\Programacion3\UI WPF\Tarjeta de Credito\bin\Debug\netcoreapp3.1\Wallet Payment.dll
+C:\Universidad\TercerSemestre\Programacion3\UI WPF\Tarjeta de Credito\bin\Debug\netcoreapp3.1\Wallet Payment.pdb
+C:\Universidad\TercerSemestre\Programacion3\UI WPF\Tarjeta de Credito\bin\Debug\netcoreapp3.1\FontAwesome.WPF.dll
+C:\Universidad\TercerSemestre\Programacion3\UI WPF\Tarjeta de Credito\obj\Debug\netcoreapp3.1\Wallet Payment.csproj.AssemblyReference.cache
+C:\Universidad\TercerSemestre\Programacion3\UI WPF\Tarjeta de Credito\obj\Debug\netcoreapp3.1\MainWindow.baml
+C:\Universidad\TercerSemestre\Programacion3\UI WPF\Tarjeta de Credito\obj\Debug\netcoreapp3.1\App.baml
+C:\Universidad\TercerSemestre\Programacion3\UI WPF\Tarjeta de Credito\obj\Debug\netcoreapp3.1\MainWindow.g.cs
+C:\Universidad\TercerSemestre\Programacion3\UI WPF\Tarjeta de Credito\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Universidad\TercerSemestre\Programacion3\UI WPF\Tarjeta de Credito\obj\Debug\netcoreapp3.1\Wallet Payment_MarkupCompile.cache
+C:\Universidad\TercerSemestre\Programacion3\UI WPF\Tarjeta de Credito\obj\Debug\netcoreapp3.1\Wallet Payment.g.resources
+C:\Universidad\TercerSemestre\Programacion3\UI WPF\Tarjeta de Credito\obj\Debug\netcoreapp3.1\Wallet Payment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Universidad\TercerSemestre\Programacion3\UI WPF\Tarjeta de Credito\obj\Debug\netcoreapp3.1\Wallet Payment.AssemblyInfoInputs.cache
+C:\Universidad\TercerSemestre\Programacion3\UI WPF\Tarjeta de Credito\obj\Debug\netcoreapp3.1\Wallet Payment.AssemblyInfo.cs
+C:\Universidad\TercerSemestre\Programacion3\UI WPF\Tarjeta de Credito\obj\Debug\netcoreapp3.1\Wallet Payment.csproj.CoreCompileInputs.cache
+C:\Universidad\TercerSemestre\Programacion3\UI WPF\Tarjeta de Credito\obj\Debug\netcoreapp3.1\Wallet Payment.csproj.CopyComplete
+C:\Universidad\TercerSemestre\Programacion3\UI WPF\Tarjeta de Credito\obj\Debug\netcoreapp3.1\Wallet Payment.dll
+C:\Universidad\TercerSemestre\Programacion3\UI WPF\Tarjeta de Credito\obj\Debug\netcoreapp3.1\Wallet Payment.pdb
+C:\Universidad\TercerSemestre\Programacion3\UI WPF\Tarjeta de Credito\obj\Debug\netcoreapp3.1\Wallet Payment.genruntimeconfig.cache
+C:\Users\edu79\Desktop\Nueva carpeta\ProyectoSistemas2UI\bin\Debug\netcoreapp3.1\Wallet Payment.exe
+C:\Users\edu79\Desktop\Nueva carpeta\ProyectoSistemas2UI\bin\Debug\netcoreapp3.1\Wallet Payment.deps.json
+C:\Users\edu79\Desktop\Nueva carpeta\ProyectoSistemas2UI\bin\Debug\netcoreapp3.1\Wallet Payment.runtimeconfig.json
+C:\Users\edu79\Desktop\Nueva carpeta\ProyectoSistemas2UI\bin\Debug\netcoreapp3.1\Wallet Payment.runtimeconfig.dev.json
+C:\Users\edu79\Desktop\Nueva carpeta\ProyectoSistemas2UI\bin\Debug\netcoreapp3.1\Wallet Payment.dll
+C:\Users\edu79\Desktop\Nueva carpeta\ProyectoSistemas2UI\bin\Debug\netcoreapp3.1\Wallet Payment.pdb
+C:\Users\edu79\Desktop\Nueva carpeta\ProyectoSistemas2UI\bin\Debug\netcoreapp3.1\FontAwesome.WPF.dll
+C:\Users\edu79\Desktop\Nueva carpeta\ProyectoSistemas2UI\obj\Debug\netcoreapp3.1\Wallet Payment.csproj.AssemblyReference.cache
+C:\Users\edu79\Desktop\Nueva carpeta\ProyectoSistemas2UI\obj\Debug\netcoreapp3.1\Recursos\Estilos.baml
+C:\Users\edu79\Desktop\Nueva carpeta\ProyectoSistemas2UI\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\edu79\Desktop\Nueva carpeta\ProyectoSistemas2UI\obj\Debug\netcoreapp3.1\Wallet Payment_MarkupCompile.cache
+C:\Users\edu79\Desktop\Nueva carpeta\ProyectoSistemas2UI\obj\Debug\netcoreapp3.1\Wallet Payment.g.resources
+C:\Users\edu79\Desktop\Nueva carpeta\ProyectoSistemas2UI\obj\Debug\netcoreapp3.1\Wallet Payment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edu79\Desktop\Nueva carpeta\ProyectoSistemas2UI\obj\Debug\netcoreapp3.1\Wallet Payment.AssemblyInfoInputs.cache
+C:\Users\edu79\Desktop\Nueva carpeta\ProyectoSistemas2UI\obj\Debug\netcoreapp3.1\Wallet Payment.AssemblyInfo.cs
+C:\Users\edu79\Desktop\Nueva carpeta\ProyectoSistemas2UI\obj\Debug\netcoreapp3.1\Wallet Payment.csproj.CoreCompileInputs.cache
+C:\Users\edu79\Desktop\Nueva carpeta\ProyectoSistemas2UI\obj\Debug\netcoreapp3.1\Wallet Payment.sourcelink.json
+C:\Users\edu79\Desktop\Nueva carpeta\ProyectoSistemas2UI\obj\Debug\netcoreapp3.1\Wallet P.D1D3CF59.Up2Date
+C:\Users\edu79\Desktop\Nueva carpeta\ProyectoSistemas2UI\obj\Debug\netcoreapp3.1\Wallet Payment.dll
+C:\Users\edu79\Desktop\Nueva carpeta\ProyectoSistemas2UI\obj\Debug\netcoreapp3.1\Wallet Payment.pdb
+C:\Users\edu79\Desktop\Nueva carpeta\ProyectoSistemas2UI\obj\Debug\netcoreapp3.1\Wallet Payment.genruntimeconfig.cache
+C:\Users\edu79\Desktop\Nueva carpeta\ProyectoSistemas2UId\bin\Debug\netcoreapp3.1\Wallet Payment.exe
+C:\Users\edu79\Desktop\Nueva carpeta\ProyectoSistemas2UId\bin\Debug\netcoreapp3.1\Wallet Payment.deps.json
+C:\Users\edu79\Desktop\Nueva carpeta\ProyectoSistemas2UId\bin\Debug\netcoreapp3.1\Wallet Payment.runtimeconfig.json
+C:\Users\edu79\Desktop\Nueva carpeta\ProyectoSistemas2UId\bin\Debug\netcoreapp3.1\Wallet Payment.runtimeconfig.dev.json
+C:\Users\edu79\Desktop\Nueva carpeta\ProyectoSistemas2UId\bin\Debug\netcoreapp3.1\Wallet Payment.dll
+C:\Users\edu79\Desktop\Nueva carpeta\ProyectoSistemas2UId\bin\Debug\netcoreapp3.1\Wallet Payment.pdb
+C:\Users\edu79\Desktop\Nueva carpeta\ProyectoSistemas2UId\bin\Debug\netcoreapp3.1\FontAwesome.WPF.dll
+C:\Users\edu79\Desktop\Nueva carpeta\ProyectoSistemas2UId\obj\Debug\netcoreapp3.1\Wallet Payment.csproj.AssemblyReference.cache
+C:\Users\edu79\Desktop\Nueva carpeta\ProyectoSistemas2UId\obj\Debug\netcoreapp3.1\Interfaces\Ventanas\DashBoard\MainWindow.baml
+C:\Users\edu79\Desktop\Nueva carpeta\ProyectoSistemas2UId\obj\Debug\netcoreapp3.1\Recursos\Estilos.baml
+C:\Users\edu79\Desktop\Nueva carpeta\ProyectoSistemas2UId\obj\Debug\netcoreapp3.1\Interfaces\Ventanas\DashBoard\MainWindow.g.cs
+C:\Users\edu79\Desktop\Nueva carpeta\ProyectoSistemas2UId\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\edu79\Desktop\Nueva carpeta\ProyectoSistemas2UId\obj\Debug\netcoreapp3.1\Wallet Payment_MarkupCompile.cache
+C:\Users\edu79\Desktop\Nueva carpeta\ProyectoSistemas2UId\obj\Debug\netcoreapp3.1\Wallet Payment.g.resources
+C:\Users\edu79\Desktop\Nueva carpeta\ProyectoSistemas2UId\obj\Debug\netcoreapp3.1\Wallet Payment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edu79\Desktop\Nueva carpeta\ProyectoSistemas2UId\obj\Debug\netcoreapp3.1\Wallet Payment.AssemblyInfoInputs.cache
+C:\Users\edu79\Desktop\Nueva carpeta\ProyectoSistemas2UId\obj\Debug\netcoreapp3.1\Wallet Payment.AssemblyInfo.cs
+C:\Users\edu79\Desktop\Nueva carpeta\ProyectoSistemas2UId\obj\Debug\netcoreapp3.1\Wallet Payment.csproj.CoreCompileInputs.cache
+C:\Users\edu79\Desktop\Nueva carpeta\ProyectoSistemas2UId\obj\Debug\netcoreapp3.1\Wallet Payment.sourcelink.json
+C:\Users\edu79\Desktop\Nueva carpeta\ProyectoSistemas2UId\obj\Debug\netcoreapp3.1\Wallet P.D1D3CF59.Up2Date
+C:\Users\edu79\Desktop\Nueva carpeta\ProyectoSistemas2UId\obj\Debug\netcoreapp3.1\Wallet Payment.dll
+C:\Users\edu79\Desktop\Nueva carpeta\ProyectoSistemas2UId\obj\Debug\netcoreapp3.1\Wallet Payment.pdb
+C:\Users\edu79\Desktop\Nueva carpeta\ProyectoSistemas2UId\obj\Debug\netcoreapp3.1\Wallet Payment.genruntimeconfig.cache
+C:\Users\edu79\Desktop\Nueva carpeta\ProyectoSistemas2UI\obj\Debug\netcoreapp3.1\Interfaces\Ventanas\DashBoard.baml
+C:\Users\edu79\Desktop\Nueva carpeta\ProyectoSistemas2UI\obj\Debug\netcoreapp3.1\Interfaces\Ventanas\DashBoard.g.cs
+C:\Users\edu79\Desktop\Nueva carpeta\ProyectoSistemas2UI\obj\Debug\netcoreapp3.1\Interfaces\Ventanas\Login.g.cs
+C:\Users\edu79\Desktop\Nueva carpeta\ProyectoSistemas2UI\obj\Debug\netcoreapp3.1\Wallet Payment_MarkupCompile.lref
+C:\Users\edu79\Desktop\Nueva carpeta\ProyectoSistemas2UI\obj\Debug\netcoreapp3.1\Interfaces\Ventanas\Login.baml
+C:\Users\edu79\Desktop\Nueva carpeta\ProyectoSistemas2UI original\bin\Debug\netcoreapp3.1\Wallet Payment.exe
+C:\Users\edu79\Desktop\Nueva carpeta\ProyectoSistemas2UI original\bin\Debug\netcoreapp3.1\Wallet Payment.deps.json
+C:\Users\edu79\Desktop\Nueva carpeta\ProyectoSistemas2UI original\bin\Debug\netcoreapp3.1\Wallet Payment.runtimeconfig.json
+C:\Users\edu79\Desktop\Nueva carpeta\ProyectoSistemas2UI original\bin\Debug\netcoreapp3.1\Wallet Payment.runtimeconfig.dev.json
+C:\Users\edu79\Desktop\Nueva carpeta\ProyectoSistemas2UI original\bin\Debug\netcoreapp3.1\Wallet Payment.dll
+C:\Users\edu79\Desktop\Nueva carpeta\ProyectoSistemas2UI original\bin\Debug\netcoreapp3.1\Wallet Payment.pdb
+C:\Users\edu79\Desktop\Nueva carpeta\ProyectoSistemas2UI original\bin\Debug\netcoreapp3.1\FontAwesome.WPF.dll
+C:\Users\edu79\Desktop\Nueva carpeta\ProyectoSistemas2UI original\obj\Debug\netcoreapp3.1\Wallet Payment.csproj.AssemblyReference.cache
+C:\Users\edu79\Desktop\Nueva carpeta\ProyectoSistemas2UI original\obj\Debug\netcoreapp3.1\Interfaces\Ventanas\DashBoard.baml
+C:\Users\edu79\Desktop\Nueva carpeta\ProyectoSistemas2UI original\obj\Debug\netcoreapp3.1\Recursos\Estilos.baml
+C:\Users\edu79\Desktop\Nueva carpeta\ProyectoSistemas2UI original\obj\Debug\netcoreapp3.1\Interfaces\Paginas\Administrador\Listar.g.cs
+C:\Users\edu79\Desktop\Nueva carpeta\ProyectoSistemas2UI original\obj\Debug\netcoreapp3.1\Interfaces\Paginas\Comun\Editar.g.cs
+C:\Users\edu79\Desktop\Nueva carpeta\ProyectoSistemas2UI original\obj\Debug\netcoreapp3.1\Interfaces\Paginas\Comun\Historial.g.cs
+C:\Users\edu79\Desktop\Nueva carpeta\ProyectoSistemas2UI original\obj\Debug\netcoreapp3.1\Interfaces\Paginas\Comun\Inicio.g.cs
+C:\Users\edu79\Desktop\Nueva carpeta\ProyectoSistemas2UI original\obj\Debug\netcoreapp3.1\Interfaces\Ventanas\DashBoard.g.cs
+C:\Users\edu79\Desktop\Nueva carpeta\ProyectoSistemas2UI original\obj\Debug\netcoreapp3.1\Interfaces\Ventanas\Login.g.cs
+C:\Users\edu79\Desktop\Nueva carpeta\ProyectoSistemas2UI original\obj\Debug\netcoreapp3.1\App.g.cs
+C:\Users\edu79\Desktop\Nueva carpeta\ProyectoSistemas2UI original\obj\Debug\netcoreapp3.1\Wallet Payment_MarkupCompile.cache
+C:\Users\edu79\Desktop\Nueva carpeta\ProyectoSistemas2UI original\obj\Debug\netcoreapp3.1\Wallet Payment_MarkupCompile.lref
+C:\Users\edu79\Desktop\Nueva carpeta\ProyectoSistemas2UI original\obj\Debug\netcoreapp3.1\Interfaces\Paginas\Administrador\Listar.baml
+C:\Users\edu79\Desktop\Nueva carpeta\ProyectoSistemas2UI original\obj\Debug\netcoreapp3.1\Interfaces\Paginas\Comun\Editar.baml
+C:\Users\edu79\Desktop\Nueva carpeta\ProyectoSistemas2UI original\obj\Debug\netcoreapp3.1\Interfaces\Paginas\Comun\Historial.baml
+C:\Users\edu79\Desktop\Nueva carpeta\ProyectoSistemas2UI original\obj\Debug\netcoreapp3.1\Interfaces\Paginas\Comun\Inicio.baml
+C:\Users\edu79\Desktop\Nueva carpeta\ProyectoSistemas2UI original\obj\Debug\netcoreapp3.1\Interfaces\Ventanas\Login.baml
+C:\Users\edu79\Desktop\Nueva carpeta\ProyectoSistemas2UI original\obj\Debug\netcoreapp3.1\Wallet Payment.g.resources
+C:\Users\edu79\Desktop\Nueva carpeta\ProyectoSistemas2UI original\obj\Debug\netcoreapp3.1\Wallet Payment.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\edu79\Desktop\Nueva carpeta\ProyectoSistemas2UI original\obj\Debug\netcoreapp3.1\Wallet Payment.AssemblyInfoInputs.cache
+C:\Users\edu79\Desktop\Nueva carpeta\ProyectoSistemas2UI original\obj\Debug\netcoreapp3.1\Wallet Payment.AssemblyInfo.cs
+C:\Users\edu79\Desktop\Nueva carpeta\ProyectoSistemas2UI original\obj\Debug\netcoreapp3.1\Wallet Payment.csproj.CoreCompileInputs.cache
+C:\Users\edu79\Desktop\Nueva carpeta\ProyectoSistemas2UI original\obj\Debug\netcoreapp3.1\Wallet Payment.sourcelink.json
+C:\Users\edu79\Desktop\Nueva carpeta\ProyectoSistemas2UI original\obj\Debug\netcoreapp3.1\Wallet P.D1D3CF59.Up2Date
+C:\Users\edu79\Desktop\Nueva carpeta\ProyectoSistemas2UI original\obj\Debug\netcoreapp3.1\Wallet Payment.dll
+C:\Users\edu79\Desktop\Nueva carpeta\ProyectoSistemas2UI original\obj\Debug\netcoreapp3.1\Wallet Payment.pdb
+C:\Users\edu79\Desktop\Nueva carpeta\ProyectoSistemas2UI original\obj\Debug\netcoreapp3.1\Wallet Payment.genruntimeconfig.cache
+C:\Users\edu79\Desktop\Nueva carpeta\ProyectoSistemas2UI original\obj\Debug\netcoreapp3.1\Help.g.cs
+C:\Users\edu79\Desktop\Nueva carpeta\ProyectoSistemas2UI original\obj\Debug\netcoreapp3.1\Help.baml
+C:\Users\edu79\Desktop\Nueva carpeta\ProyectoSistemas2UI original\obj\Debug\netcoreapp3.1\Interfaces\Paginas\Administrador\Registrar.g.cs
+C:\Users\edu79\Desktop\Nueva carpeta\ProyectoSistemas2UI original\obj\Debug\netcoreapp3.1\Interfaces\Paginas\Administrador\Registrar.baml
+C:\Users\edu79\Desktop\Nueva carpeta\ProyectoSistemas2UI original\bin\Debug\netcoreapp3.1\MaterialDesignColors.dll
+C:\Users\edu79\Desktop\Nueva carpeta\ProyectoSistemas2UI original\bin\Debug\netcoreapp3.1\Microsoft.Xaml.Behaviors.dll
+C:\Users\edu79\Desktop\Nueva carpeta\ProyectoSistemas2UI original\obj\Debug\netcoreapp3.1\App.baml
+D:\5toSemestre\Proyecto Sistemas II\ProyectoInterfaces\ProyectoSistemas2UI\bin\Debug\netcoreapp3.1\Wallet Payment.exe
+D:\5toSemestre\Proyecto Sistemas II\ProyectoInterfaces\ProyectoSistemas2UI\bin\Debug\netcoreapp3.1\Wallet Payment.deps.json
+D:\5toSemestre\Proyecto Sistemas II\ProyectoInterfaces\ProyectoSistemas2UI\bin\Debug\netcoreapp3.1\Wallet Payment.runtimeconfig.json
+D:\5toSemestre\Proyecto Sistemas II\ProyectoInterfaces\ProyectoSistemas2UI\bin\Debug\netcoreapp3.1\Wallet Payment.runtimeconfig.dev.json
+D:\5toSemestre\Proyecto Sistemas II\ProyectoInterfaces\ProyectoSistemas2UI\bin\Debug\netcoreapp3.1\Wallet Payment.dll
+D:\5toSemestre\Proyecto Sistemas II\ProyectoInterfaces\ProyectoSistemas2UI\bin\Debug\netcoreapp3.1\Wallet Payment.pdb
+D:\5toSemestre\Proyecto Sistemas II\ProyectoInterfaces\ProyectoSistemas2UI\bin\Debug\netcoreapp3.1\FontAwesome.WPF.dll
+D:\5toSemestre\Proyecto Sistemas II\ProyectoInterfaces\ProyectoSistemas2UI\bin\Debug\netcoreapp3.1\MaterialDesignColors.dll
+D:\5toSemestre\Proyecto Sistemas II\ProyectoInterfaces\ProyectoSistemas2UI\bin\Debug\netcoreapp3.1\Microsoft.Xaml.Behaviors.dll
+D:\5toSemestre\Proyecto Sistemas II\ProyectoInterfaces\ProyectoSistemas2UI\obj\Debug\netcoreapp3.1\Wallet Payment.csproj.AssemblyReference.cache
+D:\5toSemestre\Proyecto Sistemas II\ProyectoInterfaces\ProyectoSistemas2UI\obj\Debug\netcoreapp3.1\Interfaces\Ventanas\DashBoard.baml
+D:\5toSemestre\Proyecto Sistemas II\ProyectoInterfaces\ProyectoSistemas2UI\obj\Debug\netcoreapp3.1\Recursos\Estilos.baml
+D:\5toSemestre\Proyecto Sistemas II\ProyectoInterfaces\ProyectoSistemas2UI\obj\Debug\netcoreapp3.1\App.baml
+D:\5toSemestre\Proyecto Sistemas II\ProyectoInterfaces\ProyectoSistemas2UI\obj\Debug\netcoreapp3.1\Help.g.cs
+D:\5toSemestre\Proyecto Sistemas II\ProyectoInterfaces\ProyectoSistemas2UI\obj\Debug\netcoreapp3.1\Interfaces\Paginas\Administrador\Listar.g.cs
+D:\5toSemestre\Proyecto Sistemas II\ProyectoInterfaces\ProyectoSistemas2UI\obj\Debug\netcoreapp3.1\Interfaces\Paginas\Administrador\Registrar.g.cs
+D:\5toSemestre\Proyecto Sistemas II\ProyectoInterfaces\ProyectoSistemas2UI\obj\Debug\netcoreapp3.1\Interfaces\Paginas\Comun\Editar.g.cs
+D:\5toSemestre\Proyecto Sistemas II\ProyectoInterfaces\ProyectoSistemas2UI\obj\Debug\netcoreapp3.1\Interfaces\Paginas\Comun\Historial.g.cs
+D:\5toSemestre\Proyecto Sistemas II\ProyectoInterfaces\ProyectoSistemas2UI\obj\Debug\netcoreapp3.1\Interfaces\Paginas\Comun\Inicio.g.cs
+D:\5toSemestre\Proyecto Sistemas II\ProyectoInterfaces\ProyectoSistemas2UI\obj\Debug\netcoreapp3.1\Interfaces\Ventanas\DashBoard.g.cs
+D:\5toSemestre\Proyecto Sistemas II\ProyectoInterfaces\ProyectoSistemas2UI\obj\Debug\netcoreapp3.1\Interfaces\Ventanas\Login.g.cs
+D:\5toSemestre\Proyecto Sistemas II\ProyectoInterfaces\ProyectoSistemas2UI\obj\Debug\netcoreapp3.1\App.g.cs
+D:\5toSemestre\Proyecto Sistemas II\ProyectoInterfaces\ProyectoSistemas2UI\obj\Debug\netcoreapp3.1\Wallet Payment_MarkupCompile.cache
+D:\5toSemestre\Proyecto Sistemas II\ProyectoInterfaces\ProyectoSistemas2UI\obj\Debug\netcoreapp3.1\Wallet Payment_MarkupCompile.lref
+D:\5toSemestre\Proyecto Sistemas II\ProyectoInterfaces\ProyectoSistemas2UI\obj\Debug\netcoreapp3.1\Help.baml
+D:\5toSemestre\Proyecto Sistemas II\ProyectoInterfaces\ProyectoSistemas2UI\obj\Debug\netcoreapp3.1\Interfaces\Paginas\Administrador\Listar.baml
+D:\5toSemestre\Proyecto Sistemas II\ProyectoInterfaces\ProyectoSistemas2UI\obj\Debug\netcoreapp3.1\Interfaces\Paginas\Administrador\Registrar.baml
+D:\5toSemestre\Proyecto Sistemas II\ProyectoInterfaces\ProyectoSistemas2UI\obj\Debug\netcoreapp3.1\Interfaces\Paginas\Comun\Editar.baml
+D:\5toSemestre\Proyecto Sistemas II\ProyectoInterfaces\ProyectoSistemas2UI\obj\Debug\netcoreapp3.1\Interfaces\Paginas\Comun\Historial.baml
+D:\5toSemestre\Proyecto Sistemas II\ProyectoInterfaces\ProyectoSistemas2UI\obj\Debug\netcoreapp3.1\Interfaces\Paginas\Comun\Inicio.baml
+D:\5toSemestre\Proyecto Sistemas II\ProyectoInterfaces\ProyectoSistemas2UI\obj\Debug\netcoreapp3.1\Interfaces\Ventanas\Login.baml
+D:\5toSemestre\Proyecto Sistemas II\ProyectoInterfaces\ProyectoSistemas2UI\obj\Debug\netcoreapp3.1\Wallet Payment.g.resources
+D:\5toSemestre\Proyecto Sistemas II\ProyectoInterfaces\ProyectoSistemas2UI\obj\Debug\netcoreapp3.1\Wallet Payment.GeneratedMSBuildEditorConfig.editorconfig
+D:\5toSemestre\Proyecto Sistemas II\ProyectoInterfaces\ProyectoSistemas2UI\obj\Debug\netcoreapp3.1\Wallet Payment.AssemblyInfoInputs.cache
+D:\5toSemestre\Proyecto Sistemas II\ProyectoInterfaces\ProyectoSistemas2UI\obj\Debug\netcoreapp3.1\Wallet Payment.AssemblyInfo.cs
+D:\5toSemestre\Proyecto Sistemas II\ProyectoInterfaces\ProyectoSistemas2UI\obj\Debug\netcoreapp3.1\Wallet Payment.csproj.CoreCompileInputs.cache
+D:\5toSemestre\Proyecto Sistemas II\ProyectoInterfaces\ProyectoSistemas2UI\obj\Debug\netcoreapp3.1\Wallet Payment.csproj.CopyComplete
+D:\5toSemestre\Proyecto Sistemas II\ProyectoInterfaces\ProyectoSistemas2UI\obj\Debug\netcoreapp3.1\Wallet Payment.dll
+D:\5toSemestre\Proyecto Sistemas II\ProyectoInterfaces\ProyectoSistemas2UI\obj\Debug\netcoreapp3.1\Wallet Payment.pdb
+D:\5toSemestre\Proyecto Sistemas II\ProyectoInterfaces\ProyectoSistemas2UI\obj\Debug\netcoreapp3.1\Wallet Payment.genruntimeconfig.cache

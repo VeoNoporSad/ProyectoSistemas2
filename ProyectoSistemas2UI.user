@@ -1,0 +1,53 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup />
+  <ItemGroup>
+    <Compile Update="Help.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Interfaces\Paginas\Administrador\Listar.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Interfaces\Paginas\Administrador\Registrar.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Interfaces\Paginas\Comun\Editar.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Interfaces\Paginas\Comun\Historial.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Interfaces\Paginas\Comun\Inicio.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+    <Compile Update="Interfaces\Ventanas\Login.xaml.cs">
+      <SubType>Code</SubType>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <Page Update="Help.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Interfaces\Paginas\Administrador\Listar.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Interfaces\Paginas\Administrador\Registrar.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Interfaces\Paginas\Comun\Editar.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Interfaces\Paginas\Comun\Historial.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Interfaces\Paginas\Comun\Inicio.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Interfaces\Ventanas\Login.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+    <Page Update="Recursos\Estilos.xaml">
+      <SubType>Designer</SubType>
+    </Page>
+  </ItemGroup>
+</Project>
