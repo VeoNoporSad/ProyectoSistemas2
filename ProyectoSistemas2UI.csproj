@@ -23,4 +23,8 @@
     <Resource Include="Recursos\Imagenes\logimg.png" />
   </ItemGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="Datos\Datos.csproj" />
+  </ItemGroup>
+
 </Project>

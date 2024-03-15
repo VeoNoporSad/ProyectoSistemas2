@@ -1,3 +1,5 @@
 is_global = true
 build_property.RootNamespace = Wallet_Payment
-build_property.ProjectDir = D:\5toSemestre\Proyecto Sistemas II\ProyectoInterfaces\ProyectoSistemas2UI\
+build_property.ProjectDir = C:\Users\Alienware\RiderProjects\ProyectoSistemas2\
+build_property.EnableComHosting = 
+build_property.EnableGeneratedComInterfaceComImportInterop = 

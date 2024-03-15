@@ -10,6 +10,7 @@ using System.Windows.Media;
 using System.Windows.Media.Imaging;
 using System.Windows.Navigation;
 using System.Windows.Shapes;
+using Datos;
 
 namespace Wallet_Payment.Interfaces.Paginas.Administrador
 {
@@ -21,6 +22,7 @@ namespace Wallet_Payment.Interfaces.Paginas.Administrador
         public Listar()
         {
             InitializeComponent();
+            
         }
     }
 }
